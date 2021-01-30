@@ -33,7 +33,7 @@ if __name__ == '__main__':
     # this later)
         
         # Set the turtle .fillcolor() to orange
-        my_turtle.fillcolor("orange")
+        my_turtle.fillcolor("red")
         # Call the turtle .begin_fill() function
         my_turtle.begin_fill()
         my_turtle.right(45)# TURN RIGHT     Turn the turtle 1/8 of a circle (hint: 360 degrees
